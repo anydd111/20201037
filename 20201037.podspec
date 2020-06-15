@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "20201037"
-  spec.version      = "0.0.1"
-  spec.summary      = "A short description of 20201037."
+  spec.version      = "0.0.2"
+  spec.summary      = "A short description of 20201037 0.0.2."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
